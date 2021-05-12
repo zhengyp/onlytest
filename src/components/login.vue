@@ -1,5 +1,5 @@
 <template>
-<div class="login"></div>
+<div class="login"><h1>test</h1></div>
 
 
 </template>
@@ -17,7 +17,7 @@ export default {
 
 <style scope="scoped">
 .login{
-    height: 20%;
+    height: 100%;
     background: rgb(43, 75, 107);
 }
 
